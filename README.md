@@ -20,11 +20,6 @@ Location Detection: Quickly fetch weather information for your current location 
 
 User-Friendly: Clean and intuitive user interface for a seamless user experience.
 
-Team Members
-John (Lead Developer)
-Bella (API Integration and Data Handling)
-Oladayo (UI/UX Design)
-
 Technologies
 Languages: HTML, CSS, JavaScript
 Framework: React
@@ -39,7 +34,7 @@ Testing: Jest
 
 Getting Started
 Clone the repository:
-git clone https://github.com/your-username/weather-watcher.git
+git clone https://github.com/your-username/weather-tracker.git
 
 Install dependencies:
 cd weather-watcher (bash)
@@ -57,10 +52,10 @@ Enter a location in the search bar and click "Get Weather" to fetch current weat
 Use the "Get Current Location Weather" button to automatically detect and display weather for your current location.
 
 API Integration
-Weather Watcher uses the OpenWeatherMap API for fetching weather data. Make sure to obtain an API key from OpenWeatherMap and set it in the .env file.
+Weather Tracker  uses the OpenWeatherMap API for fetching weather data. Make sure to obtain an API key from OpenWeatherMap and set it in the .env file.
 
 Contributing
-Contributions are welcome! If you'd like to contribute to Weather Watcher, please follow these guidelines:
+Contributions are welcome! If you'd like to contribute to Weather Tracker, please follow these guidelines:
 
 Fork the repository
 Create a new branch for your feature or bug fix
